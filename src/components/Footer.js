@@ -6,7 +6,9 @@ function Footer() {
   return (
     <div>
       <ul>
+        <p>---</p>
         <p>This is my footer</p>
+        <p>---</p>
       </ul>
     </div>
   );
